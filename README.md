@@ -1,16 +1,11 @@
 # restaurant_app
 
-A new Flutter project.
+Is a Simple Flutter App to Search through a List of Restaurants.
 
-## Getting Started
+- Loads the restaurant data from JSON file in assets folder
 
-This project is a starting point for a Flutter application.
+- Displays the restaurant names in a simple list.
 
-A few resources to get you started if this is your first Flutter project:
+- Implements a basic search bar that filters the list by restaurant name.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Uses Riverpod for state management.
